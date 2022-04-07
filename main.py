@@ -1,1 +1,1 @@
-pzq test
+print(q)
